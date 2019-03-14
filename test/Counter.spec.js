@@ -1,5 +1,5 @@
 import { mount } from '@vue/test-utils'
-import Counter from './Counter.vue'
+import Counter from '../pages/Counter.vue'
 
 describe('Counter.vue', () => {
   let wrapper
